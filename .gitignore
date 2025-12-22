@@ -1,0 +1,18 @@
+# Java / Spring
+backend/target/
+backend/*.log
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# Docker
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
